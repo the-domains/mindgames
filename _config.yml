@@ -1,0 +1,28 @@
+name: MindGames
+favicon: null
+layout_spectrum: 0.5801548806484789
+typography_spectrum: 0.34278769395314157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3646935608703643
+  lightness: 0.36591867194510996
+  saturation: 0.3812136184424162
+  rhythmicContrast: 0.32287026359699667
+purpose: []
